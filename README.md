@@ -72,9 +72,9 @@ The Llama 3 model achieved near-perfect accuracy on distinct financial products 
 
 | Resource | Description | Link |
 | :--- | :--- | :--- |
-| **Dataset & Report** | Google Drive folder containing the CSV dataset, PDF Report, and Slides. | [https://drive.google.com/drive/folders/1KGULt9nv4bG53hxATVYuTiYqbf0Xxg1i?usp=drive_link] |
+| **Dataset & Report** | Google Drive folder containing the CSV dataset, PDF Report, and Slides. | [[https://drive.google.com/drive/folders/1KGULt9nv4bG53hxATVYuTiYqbf0Xxg1i?usp=drive_link](https://drive.google.com/drive/folders/1TNmuNnxwFxymEcARDIVHfYextvsY_HE2)] |
 | **Demo Video** | YouTube video demonstrating the Streamlit App in action. | [https://youtu.be/neRFyvbH4SM] |
 | **Presentation** | Recorded video presentation of the project slides. | [https://drive.google.com/file/d/1cYzX__Y4e_97MptQ_-8OUx4kb-JF0onY/view?usp=sharing] |
-| **Final Report** | PDF detailed report of methodology and results. | [See Final_Report.pdf](./Final_Report.pdf) |
+| **Final Report** | PDF detailed report of methodology and results. | [ECE-5831-Final-Report-Intelligent-Traige-For-Customer-Support-Tickets] |
 
 ---
